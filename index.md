@@ -11,6 +11,7 @@ I am a robotics and automation software engineer at Inwatec, working on the deve
 ## Pages
 See these cool pages about things I care about:
 * Gear: </gear/>
+* Gear: [gear](/gear/)
 
 ## Acknowledgments
 See this cool unordered list of entities I appreciate:
