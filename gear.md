@@ -13,13 +13,13 @@ Below are some of the things I own that I have put some amount of thought into.
 ## Tech
 Device relevance is always fleeting, yet these are my daily drivers, and I appreciate them for what they are.
 
-* Phone: iPhone 16 (128 GB)
-* Earbuds: AirPods 4 with Active Noise Cancellation
+* Phone: Apple iPhone 16 (128 GB)
+* Earbuds: Apple AirPods 4 with Active Noise Cancellation
 
     I love noise cancellation but hate rubber tips. These are a decent compromise.
 
-* Charging: Anker 523 Charger (Nano 3, 47W) + 2 x 60W USB-C Charge Cable (1 m)
-* Tracking: 3 x AirTag
+* Charging: Anker 523 Charger (Nano 3, 47W) + 2 x Apple 60W USB-C Charge Cable (1 m)
+* Tracking: 3 x Apple AirTag
 
     Provides peace of mind. Tracking backpack, keys, and wallet.
 
