@@ -4,8 +4,8 @@ title: Gear
 ---
 
 # Gear
-I try to research when selecting items to be used frequently.
-Below are some of the things I own that I have put some significant amount of thought into.
+I enjoy researching when selecting items to be used frequently.
+Below are some of the things I own that I have put some amount of thought into.
 
 ## Clothing
 * Jacket: Men's Torrentshell 3L Rain Jacket (Black)
