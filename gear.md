@@ -23,7 +23,7 @@ Device relevance is always fleeting, yet these are my daily drivers, and I appre
 
 * Charging: Anker 523 Charger + 2 x Apple 60W USB-C Charge Cable (1 m)
 
-    Compact and with dual USB-C output and wattage enough for my devices.
+    Compact, dual USB-C output, and wattage enough for my devices.
 
 * Tracking: 3 x Apple AirTag
 
