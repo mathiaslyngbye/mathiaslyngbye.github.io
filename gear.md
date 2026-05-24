@@ -12,6 +12,7 @@ Below are some of the things I own that I have put some amount of thought into.
 
 ## Tech
 Device relevance is always fleeting, yet these are my daily drivers, and I appreciate them for what they are.
+I recently standardized everything on USB-C, and got a decent dual-output USB-C charger. This is the way.
 
 * Phone: Apple iPhone 16 (128 GB)
 
@@ -23,7 +24,7 @@ Device relevance is always fleeting, yet these are my daily drivers, and I appre
 
 * Charging: Anker 523 Charger + 2 x Apple 60W USB-C Charge Cable (1 m)
 
-    Compact, dual USB-C output, and wattage enough for my devices.
+    Compact, USB-C, dual-output, and wattage enough for my devices.
 
 * Tracking: 3 x Apple AirTag
 
