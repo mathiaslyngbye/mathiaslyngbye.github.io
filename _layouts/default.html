@@ -37,16 +37,18 @@
     p + ul {
       margin-top: 1lh;
     }
-
+    
     ul {
-      padding-left: 2ch;
+      list-style: none;
+      padding-left: 0;
     }
-
+    
     li {
       margin: 0;
+      padding-left: 2ch;
     }
-
-    li::marker {
+    
+    li::before {
       content: "* ";
     }
   </style>
