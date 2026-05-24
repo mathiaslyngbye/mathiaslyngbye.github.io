@@ -43,25 +43,28 @@
       list-style: none;
       padding-left: 0;
     }
-    
+
     li {
       margin: 0;
+      padding-left: 2ch;
+      text-indent: -2ch;
     }
-    
-    li::before {
-      content: "* ";
+
+    li ul {
+      padding-left: 2ch;
     }
-    
+
     li > p {
       margin: 0;
     }
-    
+
     li > p:first-child {
       display: inline;
     }
-    
+
     li > p:not(:first-child) {
-      padding-left: 2ch;
+      padding-left: 0;
+      text-indent: 0;
     }
 
     a {
@@ -92,6 +95,13 @@
     for (const a of document.querySelectorAll("a")) {
       if (a.origin === location.origin) {
         a.textContent = a.href;
+      }
+    }
+
+    for (const li of document.querySelectorAll("li")) {
+      if (!li.dataset.bulleted) {
+        li.prepend(document.createTextNode("* "));
+        li.dataset.bulleted = "true";
       }
     }
   </script>
