@@ -43,17 +43,24 @@
       list-style: none;
       padding-left: 0;
     }
-
+    
     li {
       margin: 0;
     }
-
+    
     li::before {
       content: "* ";
     }
-
-    li p {
+    
+    li > p {
       margin: 0;
+    }
+    
+    li > p:first-child {
+      display: inline;
+    }
+    
+    li > p:not(:first-child) {
       padding-left: 2ch;
     }
 
