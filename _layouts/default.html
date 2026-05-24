@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
   <title>{{ page.title }}</title>
 
   <style>
@@ -37,18 +38,29 @@
     p + ul {
       margin-top: 1lh;
     }
-    
+
     ul {
       list-style: none;
       padding-left: 0;
     }
-    
+
     li {
       margin: 0;
     }
-    
+
     li::before {
       content: "* ";
+    }
+
+    a {
+      color: inherit;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #000;
+        color: #fff;
+      }
     }
   </style>
 </head>
@@ -64,7 +76,7 @@
       const underline = h.tagName === "H1" ? "=" : "-";
       h.textContent = `${text}\n${underline.repeat(text.length)}`;
     }
-  
+
     for (const a of document.querySelectorAll("a")) {
       if (a.origin === location.origin) {
         a.textContent = a.href;
