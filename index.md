@@ -11,5 +11,5 @@ I am a robotics and automation software engineer at Inwatec, working on the deve
 ## Acknowledgments
 See this cool unordered list of entities I appreciate:
 
-* Moongoose: https://moongoose.dk
-* Blowmore: https://blowmore.org/
+* Moongoose: <https://moongoose.dk>
+* Blowmore: <https://blowmore.org/>
