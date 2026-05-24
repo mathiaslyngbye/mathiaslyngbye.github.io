@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Mathias Lyngbye
+title: Mathias Allesen Lyngbye
 ---
 
 # Mathias Allesen Lyngbye
 
 ## Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum magna in venenatis porttitor. Sed quis quam dui. Vestibulum tincidunt accumsan odio, id ullamcorper turpis aliquet quis. Nam pretium euismod magna, vitae rhoncus mauris ultricies in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed efficitur blandit purus sollicitudin mattis. Morbi elit neque, vehicula fermentum blandit quis, venenatis in tellus. Curabitur in placerat diam. Donec eu pharetra tellus. Aliquam eros ipsum, fringilla eget rutrum vel, porttitor a arcu. Sed dapibus, mi eget egestas ullamcorper, lacus dolor tincidunt mauris, gravida aliquet augue turpis in sem. Nullam vehicula velit velit.
+I am a robotics and automation software engineer at Inwatec, working on the development, installation, and commissioning of robotic systems for industrial laundries worldwide. My work focuses on PLC-based machine control and system design, ROS2-based pipelines, and real-time computer vision, with hands-on involvement from R&D and workshop testing to on-site commissioning and debugging.
 
-## Things I like
-Suspendisse consequat efficitur erat a sodales. Sed ultricies justo nunc, eleifend hendrerit orci viverra iaculis. Nunc ultrices dui a nibh volutpat tincidunt. Phasellus egestas nec ex non sollicitudin. Donec elementum enim ut vehicula malesuada. Cras ac nunc eget enim luctus molestie at vitae orci. Duis varius luctus felis, vel tempor diam euismod non. Nullam purus elit, mattis a vulputate eget, tristique vel magna. Integer elementum tincidunt ex egestas faucibus. Nulla ut justo hendrerit, fermentum tellus ac, laoreet ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## Acknowledgments
+See this cool unordered list of entities I appreciate:
+
+* Moongoose: https://moongoose.dk
+* Blowmore: https://blowmore.org/
