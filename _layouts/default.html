@@ -9,51 +9,43 @@
     body {
       margin: 0;
       padding: 2rem;
-    
-      font-family:
-        ui-monospace,
-        SFMono-Regular,
-        Menlo,
-        Consolas,
-        "Liberation Mono",
-        monospace;
-    
-      font-size: 16px;
-      line-height: 1.4;
-    
+      font: 16px/1 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
       background: #fff;
       color: #000;
     }
-    
+
     main {
       width: min(80ch, 100%);
       margin: 0 auto;
     }
-    
+
+    h1,
+    h2,
+    p,
+    ul {
+      margin-top: 0;
+      margin-bottom: 1lh;
+    }
+
     h1,
     h2 {
       font-size: inherit;
       font-weight: normal;
       white-space: pre;
-    
-      margin-top: 0;
-      margin-bottom: 1em;
     }
-    
-    p,
-    ul {
-      margin-top: 0;
-      margin-bottom: 1em;
+
+    p + ul {
+      margin-top: 1lh;
     }
-    
-    li {
-      margin: 0;
-    }
-    
+
     ul {
       padding-left: 2ch;
     }
-    
+
+    li {
+      margin: 0;
+    }
+
     li::marker {
       content: "* ";
     }
@@ -69,7 +61,7 @@
     for (const h of document.querySelectorAll("h1, h2")) {
       const text = h.textContent.trim();
       const underline = h.tagName === "H1" ? "=" : "-";
-      h.textContent = text + "\n" + underline.repeat(text.length);
+      h.textContent = `${text}\n${underline.repeat(text.length)}`;
     }
   </script>
 </body>
