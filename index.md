@@ -13,7 +13,12 @@ See these cool pages about things I care about:
 * Gear: [/gear.html](/gear.html)
 * Travel: [/travel.html](/travel.html)
 
+## Profiles
+Where else to find me:
+* GitHub: [https://github.com/mathiaslyngbye/](https://github.com/mathiaslyngbye/)
+* LinkedIn: [https://linkedin.com/in/mathiaslyngbye/](https://linkedin.com/in/mathiaslyngbye/)
+
 ## Acknowledgments
 See this cool unordered list of entities I appreciate:
 * Moongoose: [https://moongoose.dk/](https://moongoose.dk/)
-* Blowmore: [https://blowmore.org/](https://blowmore.org/)
+* Blowmore [https://blowmore.org/](https://blowmore.org/)
