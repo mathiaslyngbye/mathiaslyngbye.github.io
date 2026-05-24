@@ -10,8 +10,8 @@ I am a robotics and automation software engineer at Inwatec, working on the deve
 
 ## Pages
 See these cool pages about things I care about:
-* Gear: </gear.html>
-* Gear: [gear](/gear.html)
+* Gear: [/gear.html](/gear.html)
+* Travel: [/travel.html](/travel.html)
 
 ## Acknowledgments
 See this cool unordered list of entities I appreciate:
