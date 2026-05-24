@@ -16,7 +16,7 @@ Device relevance is always fleeting, yet these are my daily drivers, and I appre
 * Phone: iPhone 16 (128 GB)
 * Earbuds: AirPods 4 with Active Noise Cancellation
 
-    I dislike rubber ear tips, yet love active noise cancellation. This is a happy compromise.
+    I love active noise cancellation but hate rubber tips. These are a decent compromise. They also fit my ears really well.
 
 * Charging: Anker 523 Charger (Nano 3, 47W) + 2 x 60W USB-C Charge Cable (1 m)
 * Tracking: 3 x AirTag
@@ -25,3 +25,5 @@ Device relevance is always fleeting, yet these are my daily drivers, and I appre
 
 ## Miscellaneous
 * Wallet: RE:01 COIN SLEEVE
+
+    Small, yet with room for my ~5 cards + coins/AirTag.
