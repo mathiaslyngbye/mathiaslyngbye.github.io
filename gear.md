@@ -11,8 +11,13 @@ Below are some of the things I own that I have put some amount of thought into.
 * Jacket: Men's Torrentshell 3L Rain Jacket (Black)
 
 ## Tech
+Device relevance is always fleeting, yet these are my daily drivers, and I appreciate them for what they are.
+
 * Phone: iPhone 16 (128 GB)
 * Earbuds: AirPods 4 with Active Noise Cancellation
+
+    I dislike rubber ear tips, yet love active noise cancellation. This is a happy compromise.
+
 * Charging: Anker 523 Charger (Nano 3, 47W) + 2 x 60W USB-C Charge Cable (1 m)
 * Tracking: 3 x AirTag
 
