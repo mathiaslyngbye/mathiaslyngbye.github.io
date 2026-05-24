@@ -21,4 +21,4 @@ Where else to find me:
 ## Acknowledgments
 Unordered list of entities I appreciate:
 * Moongoose: [https://moongoose.dk/](https://moongoose.dk/)
-* Blowmore [https://blowmore.org/](https://blowmore.org/)
+* Blowmore: [https://blowmore.org/](https://blowmore.org/)
