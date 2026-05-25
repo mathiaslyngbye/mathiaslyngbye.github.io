@@ -6,7 +6,7 @@ title: Mathias Allesen Lyngbye
 # Mathias Allesen Lyngbye
 
 ## Introduction
-I am a robotics and automation software engineer at Inwatec, working on the development, installation, and commissioning of robotic systems for industrial laundries worldwide. My work focuses on PLC-based machine control and system design, ROS2-based pipelines, and real-time computer vision.
+Hello there! I am a robotics and automation software engineer based in Odense, Denmark. I work at Inwatec on the development, installation, and commissioning of robotic systems for industrial laundries worldwide. Outside of that, I enjoy various hobbies, including but not limited to bouldering, Dungeons and Dragons, gaming, movies, music, programming, running, and travel. Preferably with friends, where applicable.
 
 ## Pages
 Things I care about enough to document:
