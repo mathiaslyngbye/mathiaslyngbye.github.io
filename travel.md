@@ -7,7 +7,7 @@ title: Travel
 I currently travel quite a lot, both privately and professionally.
 I have decided to jot down some notes here about my process, as well as some anecdotes about things I would rather have known than found out.
 
-# Anecdotes and Learned Lessons
+## Anecdotes and Learned Lessons
 
 * Power banks in China
 
