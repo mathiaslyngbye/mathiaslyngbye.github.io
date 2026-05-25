@@ -9,7 +9,7 @@ I have decided to jot down some notes here about my process, as well as some ane
 
 # Anecdotes and Learned Lessons
 
-* Power banks:
+* Power banks in China
 
     China strictly enforces CCC for all power banks, and will confiscate any non-compliant power banks during security check.
     My girlfriend and I lost ours during a short layover in China on 2026-05-23. 
