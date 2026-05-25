@@ -17,6 +17,7 @@ Things I care about enough to document:
 Where else to find me:
 * GitHub: [https://github.com/mathiaslyngbye/](https://github.com/mathiaslyngbye/)
 * LinkedIn: [https://linkedin.com/in/mathiaslyngbye/](https://linkedin.com/in/mathiaslyngbye/)
+* Spotify: [https://open.spotify.com/user/31inlaiezu5uoh6li43d5slrc42e/](https://open.spotify.com/user/31inlaiezu5uoh6li43d5slrc42e/)
 
 ## Acknowledgments
 Unordered list of entities I appreciate:
