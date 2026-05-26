@@ -28,7 +28,7 @@ My general packing mental model looks something like this:
 
 * Pants
 
-    Mildly destination dependent. Typically one or two pairs. Preferably one worn one packed.
+    Mildly destination dependent. Typically one or two pairs. Preferably one pair worn and one pair packed.
 
 * Outer layers
 
