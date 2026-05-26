@@ -13,10 +13,34 @@ Realistically, I still occasionally need to check in extra work outfits and/or e
 My packing philosophy remains the same in any case: bring only what you need.
 
 
-I will later include a crude packing list here.
+My general packing mental model looks something like this:
+
+* Base layer
+
+    T-shirts, underpants, and socks.
+    One of each for every expected travel day. If plans drift, I can do laundry.
+    Exceptions include extended travel time (need to do laundry anyway, bring less) and rough destinations (no easy laundry, bring more).
+
+* Toiletries
+
+    Travel-sized shampoo, toothpaste, and deodorant. Small comb. Disposable razor(s).
+    This setup covers my needs, fits in a repurposed pencil-case, and can be restocked on location if needed.
+
+* Pants
+
+    Mildly destination dependent. Typically one or two pairs. Preferably one worn one packed.
+
+* Outer layers
+
+    Heavily destination dependent. However, almost always worn rather than packed.
 
 ## Anecdotes and Learned Lessons
 
+* Lost/delayed bagage
+
+    If checking bagage, bring toiletries and a spare set of clothes in your carry-on.
+    I have been on an unlucky spree of having my bagage missing on arrival and have learned the hard way.
+    
 * Power banks in China
 
     China strictly enforces CCC for all power banks, and will confiscate any non-compliant power banks during security check.
