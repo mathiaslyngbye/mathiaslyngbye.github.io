@@ -9,8 +9,8 @@ I have decided to jot down some notes here about my process, as well as some ane
 
 ## Process
 I travel light. My typical aim to bring a single backpack as either personal item or carry-on.
-Realistically, I still occasionally need to check in extra work outfits and/or equipment.
-My packing philosophy remains the same in any case: bring only what you need.
+Occasionally I still need to check in extra work outfits and/or equipment.
+My packing philosophy remains the same in either case: bring only what you need.
 
 
 My general packing mental model looks something like this:
