@@ -12,6 +12,7 @@ Hello there! I am a robotics and automation software engineer based in Odense, D
 Things I care about enough to document:
 * Gear: [/gear.html](/gear.html)
 * Travel: [/travel.html](/travel.html)
+* Projects: [/projects.html](/travel.html)
 
 ## Profiles
 Where else to find me:
