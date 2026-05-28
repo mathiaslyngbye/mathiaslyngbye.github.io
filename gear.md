@@ -11,7 +11,7 @@ Below are some of the things I own that I have put some amount of thought into.
 * Jacket: Patagonia Men's Torrentshell 3L Rain Jacket (Black)
 
 ## Tech
-Device relevance is always fleeting, yet these are my daily drivers, and I appreciate them for what they are.
+Electronics are inherently shorter lived than other items on this page. However, my selection principles remain the same.
 I recently standardized everything on USB-C, and got a decent dual-output USB-C charger. This is the way.
 
 * Phone: Apple iPhone 16 (128 GB)
