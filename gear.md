@@ -7,8 +7,16 @@ title: Gear
 I enjoy researching when selecting items to be used frequently.
 Below are some of the things I own that I have put some amount of thought into.
 
+## Packing
+
+* Aer Slim Pack 2
+
+    Daily driver. Very small profile. Fits my work PC, charger(s), assorted small tools, and a water bottle.
+
 ## Clothing
 * Jacket: Patagonia Men's Torrentshell 3L Rain Jacket (Black)
+
+    Neutral look, relatively light, and packs into its own pocket.
 
 ## Tech
 Electronics are inherently shorter lived than other items on this page. However, my selection principles remain the same.
