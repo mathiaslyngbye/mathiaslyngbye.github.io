@@ -11,9 +11,16 @@ Below are some of the things I own that I have put some amount of thought into.
 
 * Aer Slim Pack 2
 
-    Daily driver. Very small profile. Fits my work PC, charger(s), assorted small tools, and a water bottle.
+    This is my daily commute bag. Small and durable. Fits my work PC, charger(s), assorted small things, and a water bottle.
 
 ## Clothing
+
+* T-shirt: UNIQLO DRY Colour Crew Neck T-Shirt (Black)
+
+    My current favorite. Inexpensive, comfortable, no neck tag.
+    In practice I own several different black t-shirts at any given time.
+    T-shirts wear out and get replaced as needed.
+
 * Jacket: Patagonia Men's Torrentshell 3L Rain Jacket (Black)
 
     Neutral look, relatively light, and packs into its own pocket.
