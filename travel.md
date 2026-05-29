@@ -8,7 +8,7 @@ I currently travel quite a lot, both privately and professionally.
 I have decided to jot down some notes here about my process, as well as some anecdotes about things I would rather have known than found out.
 
 ## Process
-I travel light. My typical aim to bring a single backpack as either personal item or carry-on.
+I travel light. My aim is typically to bring a single backpack as either personal item or carry-on.
 Occasionally I still need to check in extra work outfits and/or equipment.
 My packing philosophy remains the same in either case: bring only what you need.
 
