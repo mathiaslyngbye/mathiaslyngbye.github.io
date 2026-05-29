@@ -31,7 +31,7 @@ I recently standardized everything on USB-C, and got a decent dual-output USB-C 
 
 * Phone: Apple iPhone 16 (128 GB)
 
-    Smallest/lightest new iPhone available at time of purchase.
+    Smallest/lightest new iPhone available at the time of purchase.
     
 * Earbuds: Apple AirPods 4 with Active Noise Cancellation
 
