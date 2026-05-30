@@ -11,7 +11,13 @@ Below are some of the things I own that I have put some amount of thought into.
 
 * Aer Slim Pack 2
 
-    This is my daily commute bag. Small and durable. Fits my work PC, charger(s), assorted small things, and a water bottle.
+    This is my daily commute bag. Small (~12L) and durable. Fits my work PC, charger(s), assorted small things, and a water bottle.
+
+* IKEA RENSARE clothes bag (set of 3)
+
+    I own many of these, and replace them as they wear out.
+    I use these when packing clothes in any space larger than my backpack.
+    Availability is a bit spotty.
 
 ## Clothing
 
