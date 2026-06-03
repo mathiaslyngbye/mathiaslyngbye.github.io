@@ -13,10 +13,16 @@ Below are some of the things I own that I have put some amount of thought into.
 
     This is my daily commute bag. Small (~12L) and durable. Fits my work PC, charger(s), assorted small things, and a water bottle.
 
+* GORUCK GR1 (26L)
+
+    This is my main travel backpack.
+    Tough and roomy, fits everything that I would typically bring and more.
+    The bag itself is quite heavy, so there's that.
+
 * IKEA RENSARE
 
     Packing cubes. I own many of these, and replace them as they wear out.
-    I use these when packing clothes in any space larger than my backpack.
+    I use these when packing any significant amount of clothes.
     Availability is a bit spotty.
 
 ## Clothing
