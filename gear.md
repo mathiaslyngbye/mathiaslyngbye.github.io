@@ -21,37 +21,41 @@ Below are some of the things I own that I have put some amount of thought into.
 
 ## Clothing
 
-* T-shirt: UNIQLO DRY Colour Crew Neck T-Shirt (Black)
+* UNIQLO DRY Colour Crew Neck T-Shirt (Black)
 
-    My current favorite. Inexpensive, comfortable, no neck tag.
+    My current favorite T-shirt. Inexpensive, comfortable, no neck tag.
     In practice I own several different black t-shirts at any given time.
     T-shirts wear out and get replaced as needed.
 
-* Jacket: Patagonia Men's Torrentshell 3L Rain Jacket (Black)
+* Patagonia Men's Torrentshell 3L Rain Jacket (Black)
 
-    Neutral look, relatively light, and packs into its own pocket.
+    Daily rain jacket. Neutral look, relatively light, and packs into its own pocket.
 
 ## Tech
 Electronics are inherently shorter lived than other items on this page. However, my selection principles remain the same.
 I recently standardized everything on USB-C, and got a decent dual-output USB-C charger. This is the way.
 
-* Phone: Apple iPhone 16 (128 GB)
+* Apple iPhone 16 (128 GB)
 
     Smallest/lightest new iPhone available at the time of purchase.
     
-* Earbuds: Apple AirPods 4 with Active Noise Cancellation
+* Apple AirPods 4 with Active Noise Cancellation
 
     I love noise cancellation but hate rubber tips. These are a decent compromise.
 
-* Charging: Anker 523 Charger + 2 x Apple 60W USB-C Charge Cable (1 m)
+* Anker 523 Charger
 
     Compact, USB-C, dual-output, and wattage enough for my devices.
 
-* Tracking: 3 x Apple AirTag
+* Apple 60W USB-C Charge Cable (1 m)
+
+    Quality cable. One for each charger output.
+
+* Apple AirTag
 
     Provides peace of mind. Tracking backpack, keys, and wallet.
 
 ## Miscellaneous
-* Wallet: RE:01 COIN SLEEVE
+* RE:01 COIN SLEEVE
 
-    Small, yet with room for my ~5 cards + coins/AirTag.
+    Current wallet. Small, yet with room for my ~5 cards + coins/AirTag.
