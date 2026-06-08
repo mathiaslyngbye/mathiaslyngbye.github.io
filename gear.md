@@ -19,6 +19,11 @@ Below are some of the things I own that I have put some amount of thought into.
     Tough and roomy, fits everything that I would typically bring and more.
     The bag itself is quite heavy, so there's that.
 
+* RAINS Pencil Case Mini
+
+    Repurposed as toiletry bag. Perfect size for a minimal toiletry kit.
+    Discontinued.
+
 * IKEA RENSARE
 
     Packing cubes. I own many of these, and replace them as they wear out.
