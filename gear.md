@@ -70,3 +70,9 @@ I recently standardized everything on USB-C, and got a decent dual-output USB-C 
 * RE:01 COIN SLEEVE
 
     Current wallet. Small, yet with room for my ~5 cards + coins/AirTag.
+
+* Hamilton Khaki Field King
+
+    Daily watch for a number of years.
+    Good quality, legible, and with day/date display.
+    Currently worn on a black Delugs elastic loop strap.
